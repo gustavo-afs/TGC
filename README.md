@@ -24,7 +24,7 @@ Some Features developed for this game:
 Unfortunatelly, as some of those assets were purchased, i was not able to publish the full project here. But I recovered the scripts and they can be found here: 
 (https://github.com/gustavo-afs/TGC/tree/main/Scripts)
 
-But you can Download the app and install at your Android Device using this Link here: (https://drive.google.com/file/d/1mvvAL1a0fttMWWPePjYfo05s6-tHprRt/view?usp=sharing)
+You can also Download the app and install at your Android Device using this Link here: (https://drive.google.com/file/d/1mvvAL1a0fttMWWPePjYfo05s6-tHprRt/view?usp=sharing)
 
 The missions are locked until the player beats the first missio, then all other missions are available to be played (this was a request of the University so they could test the whole game without need to beat it entirely)
 
